@@ -1,0 +1,16 @@
+.portofolio-container{
+    margin-top: 50px;
+}
+
+.title {
+    font-size: 36px;
+    color: black;
+    font-weight: bold;
+}
+
+hr.break-line {
+    height: 5px;
+    background-color: red;
+    margin-bottom: 10px;
+    border: 1px solid red;
+}
